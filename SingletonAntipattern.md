@@ -42,5 +42,6 @@ A very common use of implementing Singletons is use of Logging or interacting wi
 
 Comments:
 ```
-Nice arguments, I tend to agree with them.
+Nice arguments, I tend to agree with them. But you need synchronized & volatile 
+for correct multi-threading correctness. 
  ```
