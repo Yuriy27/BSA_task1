@@ -38,3 +38,9 @@ A very common use of implementing Singletons is use of Logging or interacting wi
 1. Extending Singletons is not easy. Programmer needs to use some kind of decorator pattern to change the behavior.
 1. In a garbage collected system, singletons can become very hard with regard to memory management.
 1. Singletons can’t be used with clustering.
+
+
+Comments:
+```
+Nice arguments, I tend to agree with them.
+ ```
